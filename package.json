@@ -1,0 +1,16 @@
+{
+  "name": "cheakpoint-node",
+  "version": "1.0.0",
+  "main": "email-sender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemailer": "^6.9.15",
+    "password-generator": "^2.3.2"
+  }
+}
